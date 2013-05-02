@@ -7,11 +7,11 @@ body {
     min-height: 100%;
     height: auto !important;
     height: 100%;
-    margin: 0 auto -120px;
+    margin: 0 auto -90px;
 }
 
 #wrap .container {
-    padding-top: 120px;
+    padding-top: 90px;
 }
 
 #my {
