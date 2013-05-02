@@ -1,3 +1,19 @@
+html,
+body {
+    height: 100%;
+}
+
+#wrap {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -120px;
+}
+
+#wrap .container {
+    padding-top: 120px;
+}
+
 #my {
     float: left;
     font-family: 'Maven Pro', sans-serif;
@@ -18,4 +34,16 @@
     float: left;
     text-align: right;
     padding-right: 20px;
+}
+
+#push {
+    height: 60px;
+}
+
+#footer {
+    height: 60px;
+}
+
+#footer {
+    text-align: center;
 }
