@@ -1,13 +1,19 @@
 #my {
+    float: left;
     font-family: 'Maven Pro', sans-serif;
 }
 
-li {
+#links {
+    float: left;
+    margin-left: 30px;
+}
+
+#links li {
     line-height: 30px;
     font-size: 17px;
 }
 
-li category {
+#links li category {
     width: 50px;
     float: left;
     text-align: right;
